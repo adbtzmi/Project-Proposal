@@ -1,7 +1,7 @@
 
 # Project Proposal
 
-# University Club Management System (UCMS)
+# Campus Connect: A Comprehensive Web Application for University Club Management
 
 ## Group Members:
 - MUHAMMAD ADIB BIN MOHAMAD TAZMI (2216265)
@@ -10,10 +10,10 @@
 - SOHAN MOHAMMED ISMAIL CHOWDHURY (2115849)
 
 ## Introduction:
-The University Club Management System (UCMS) is a comprehensive web application designed to streamline the management of university clubs and their activities. UCMS provides separate interfaces for administrators and students, each tailored to their specific needs and roles within the system.
+University clubs and activities may be better managed with the help of Campus Connect, an advanced online tool. Campus Connect's powerful features and user-friendly interface are designed to help students, club administrators, and university stakeholders communicate, coordinate, and organise more easily.
 
 ## Objective:
-The objective of UCMS is to facilitate efficient club management, enhance communication between club members and administrators, and provide students with easy access to information about clubs and events on campus.
+Campus Connect's main goal is to offer a centralised platform for organising events, maintaining memberships, creating clubs, and processing applications, among other areas of university club operations. Campus Connect seeks to enhance efficiency, transparency, and involvement within the university community by digitising and automating key operations.
 
 ## Features and Functionalities:
 
@@ -69,7 +69,7 @@ The objective of UCMS is to facilitate efficient club management, enhance commun
    - Secure login/logout functionality for students.
 
 ## Entity-Relationship Diagram (ERD):
-![ERD Diagram]()
+![ERD Diagram](C:\Users\User\Downloads\SQD.jpeg)
 
 ## Sequence Diagram:
 ![Sequence Diagram](link-to-sequence-diagram-image)
