@@ -69,14 +69,16 @@ Campus Connect's main goal is to offer a centralised platform for student to app
    - Secure login/logout functionality for students.
 
 ## Entity-Relationship Diagram (ERD):
-![Sequence Diagram](link-to-sequence-diagram-image)
+![ER Diagram](https://github.com/adbtzmi/Project-Proposal/assets/89768879/f3b14456-0ef8-4303-b2b5-946469e10a5d)
 
 ## Sequence Diagram:
-![SQD](https://github.com/adbtzmi/Project-Proposal/assets/89768879/2c868ff2-0210-4ee3-bddf-d9a05046b05c)
+![Sequence Diagram](https://github.com/adbtzmi/Project-Proposal/assets/89768879/2c868ff2-0210-4ee3-bddf-d9a05046b05c)
 
 ## References:
 - Markdown Syntax: [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 - MVC Architecture: [Link to MVC Documentation](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 - ERD Design: [Link to ERD Design Principles](https://www.lucidchart.com/pages/er-diagrams)
 - Sequence Diagrams: [Link to Sequence Diagrams Overview](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/)
+- ER Diagram : [Link to what is ER Diagram](https://www.lucidchart.com/pages/er-diagrams)
+- UML Sequence Diagram Tutorial: [Link to Sequence Diagram Tutorial](https://www.lucidchart.com/pages/uml-sequence-diagram#:~:text=Sequence%20diagrams%20are%20a%20popular,function%20before%20the%20lifeline%20ends)
 
