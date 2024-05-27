@@ -23,19 +23,19 @@ Campus Connect's main goal is to offer a centralised platform for student to app
 1. **Home Page:**
    - Display summary of club list and system information.
 
-2. **Club Management:**
+2. **Club Management (Model):**
    - Add, edit, and delete clubs.
    - View detailed information about each club.
 
-3. **User Management:**
+3. **User Management (Model):**
    - Add, edit, and delete users (administrators, club leaders, members).
    - View detailed information about each user.
 
-4. **Application Management:**
+4. **Application Management (Model):**
    - Add, edit, and delete applications submitted by students.
    - View detailed information about each application.
 
-5. **Event/Programme Management:**
+5. **Event/Programme Management (Model):**
    - Add, edit, and delete events or programs organized by clubs.
    - View detailed information about each event or program.
 
