@@ -4,10 +4,12 @@
 # Campus Connect: A Comprehensive Web Application for University Club Management
 
 ## Group Members:
-- MUHAMMAD ADIB BIN MOHAMAD TAZMI (2216265)
-- MUHAMMAD AMIR SYAHMI BIN ROHMAT ROSE (2215955)
-- MUHAMMAD IRFAN BIN FAIRUZ AZIM (2211915)
-- SOHAN MOHAMMED ISMAIL CHOWDHURY (2115849)
+| Name  | Matric No |
+| ------------- | ------------- |
+| MUHAMMAD ADIB BIN MOHAMAD TAZMI | 2216265 |
+| MUHAMMAD AMIR SYAHMI BIN ROHMAT ROSE | 2215955 |
+| MUHAMMAD IRFAN BIN FAIRUZ AZIM | 2211915 |
+| SOHAN MOHAMMED ISMAIL CHOWDHURY | 2115849 |
 
 ## Introduction:
 University clubs and activities may be better managed with the help of Campus Connect, an advanced online tool. Campus Connect's powerful features and user-friendly interface are designed to help students, club administrators, and university stakeholders communicate, coordinate, and organise more easily.
