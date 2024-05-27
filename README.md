@@ -13,7 +13,7 @@
 University clubs and activities may be better managed with the help of Campus Connect, an advanced online tool. Campus Connect's powerful features and user-friendly interface are designed to help students, club administrators, and university stakeholders communicate, coordinate, and organise more easily.
 
 ## Objective:
-Campus Connect's main goal is to offer a centralised platform for organising events, maintaining memberships, creating clubs, and processing applications, among other areas of university club operations. Campus Connect seeks to enhance efficiency, transparency, and involvement within the university community by digitising and automating key operations.
+Campus Connect's main goal is to offer a centralised platform for student to apply for club membership and for administor to organising events, maintaining memberships, creating clubs, and processing applications, among other areas of university club operations. Campus Connect seeks to enhance efficiency, transparency, and involvement within the university community by digitising and automating key operations.
 
 ## Features and Functionalities:
 
@@ -69,11 +69,10 @@ Campus Connect's main goal is to offer a centralised platform for organising eve
    - Secure login/logout functionality for students.
 
 ## Entity-Relationship Diagram (ERD):
-![SQD](https://github.com/adbtzmi/Project-Proposal/assets/89768879/2c868ff2-0210-4ee3-bddf-d9a05046b05c)
-
+![Sequence Diagram](link-to-sequence-diagram-image)
 
 ## Sequence Diagram:
-![Sequence Diagram](link-to-sequence-diagram-image)
+![SQD](https://github.com/adbtzmi/Project-Proposal/assets/89768879/2c868ff2-0210-4ee3-bddf-d9a05046b05c)
 
 ## References:
 - Markdown Syntax: [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
