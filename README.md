@@ -69,7 +69,8 @@ Campus Connect's main goal is to offer a centralised platform for organising eve
    - Secure login/logout functionality for students.
 
 ## Entity-Relationship Diagram (ERD):
-![ERD Diagram](C:\Users\User\Downloads\SQD.jpeg)
+![SQD](https://github.com/adbtzmi/Project-Proposal/assets/89768879/2c868ff2-0210-4ee3-bddf-d9a05046b05c)
+
 
 ## Sequence Diagram:
 ![Sequence Diagram](link-to-sequence-diagram-image)
