@@ -22,51 +22,54 @@ Campus Connect's main goal is to offer a centralised platform for student to app
 ### Admin-Side:
 1. **Home Page:**
    - Display summary of club list and system information.
-
 2. **Club Management (Model):**
    - Add, edit, and delete clubs.
    - View detailed information about each club.
-
 3. **User Management (Model):**
    - Add, edit, and delete user.
    - View detailed information about each user.
-
 4. **Application Management (Model):**
+   - View all applications submitted across all clubs.
    - Add, edit, and delete applications submitted by students.
    - View detailed information about each application.
-
-5. **Event/Programme Management (Model):**
+6. **Event/Programme Management (Model):**
    - Add, edit, and delete events or programs organized by clubs.
    - View detailed information about each event or program.
-
-6. **Update System Information:**
+7. **Update System Information:**
    - Allow administrators to update system-wide information or announcements.
-
-7. **Update Account Details/Credentials:**
+8. **Update Account Details/Credentials:**
    - Allow administrators to update their account details or credentials.
-
-8. **Login and Logout:**
+9. **Login and Logout:**
    - Secure login/logout functionality for administrators.
+  
+###Club Admin-Side:
+1. **Home Page:**
+   - Display the summary of the list.
+2. **Application Management (Model):**
+   - View applications submitted to their specific club.
+   - Add, edit, and delete applications submitted by students for their club.
+   - View detailed information about each application.
+4. **Event/Programme Management (Model):**
+   - Add, edit, and delete events or programs.
+   - View detailed information about each event or program.
+3. **Update Account Details/Credentials:**
+   - Allow club's admin to submit their applications to join a club.
+5. **Login and Logout:**
+   - Secure login/logout functionality for club's admin.
 
 ### Student-Side:
 1. **Home Page:**
    - Display welcome content and announcements.
-
 2. **About Us Content:**
    - Information about the university clubs and their objectives.
-
 3. **List All Active Clubs:**
    - Display a list of all active clubs on campus.
-
 4. **View Club's Details:**
    - View detailed information about a specific club.
-
 5. **Club's Application Form:**
    - Enable students to submit applications to join a club.
-
 6. **Submit Application:**
    - Allow students to submit their applications to join a club.
-
 7. **Login and Logout:**
    - Secure login/logout functionality for students.
 
