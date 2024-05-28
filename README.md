@@ -28,7 +28,7 @@ Campus Connect's main goal is to offer a centralised platform for student to app
    - View detailed information about each club.
 
 3. **User Management (Model):**
-   - Add, edit, and delete users (administrators, club leaders, members).
+   - Add, edit, and delete user.
    - View detailed information about each user.
 
 4. **Application Management (Model):**
