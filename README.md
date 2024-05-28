@@ -42,7 +42,7 @@ Campus Connect's main goal is to offer a centralised platform for student to app
 9. **Login and Logout:**
    - Secure login/logout functionality for administrators.
   
-## Club Admin-Side:
+### Club Admin-Side:
 1. **Home Page:**
    - Display the summary of the list.
 2. **Application Management (Model):**
